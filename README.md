@@ -4,6 +4,8 @@ Replacement IR remote for the **Denver DVH-1245 DVD player**, built with an **M5
 
 The DVH-1245 has no publicly available IR code database (not in LIRC, irdb, or Flipper-IRDB). This project includes a **complete command map** obtained by brute-forcing all 256 NEC command bytes against the player.
 
+![Photo of the M5Stack IR remote in action](./IMG_9072.png)
+
 ## Why
 
 The DVD player's front panel only has play/pause/stop — no way to navigate menus or change audio language without a remote. No replacement remote or IR code database exists for this model.
